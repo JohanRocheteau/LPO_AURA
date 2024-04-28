@@ -1,5 +1,5 @@
 # Projet de Bénévolat : LPO-AURA (en cours)
-![Logo](photos/Morilles.jpg) # A changer
+![Logo](images/Logo_LPO.jpg)
 
 ## Mise en situation :
 - **But :** Récupération automatique, via une API, des données issues d’une sonde météorologique et stockage en PostgreSQL. 
