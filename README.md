@@ -16,4 +16,4 @@
     - un pour la partie historique
     - un pour la récupération des nouvelles données
     - et finalement un regroupant les deux premiers.
-    - Ajout des librairies black, isort, flake8 & flake8-isort, pylint et pre-commit pour la vérification de la qualité du code python envoyé sur GitHub. 
+    - ajout des librairies black, isort, flake8 & flake8-isort, pylint et pre-commit pour la vérification de la qualité du code python envoyé sur GitHub. 
