@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "lpo-aura"
+version = "0.1.0"
+description = ""
+authors = ["Johan Rocheteau <johan.rocheteau@hotmail.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+requests = "^2.31.0"
+tqdm = "^4.66.2"
+python-dotenv = "^1.0.1"
+sqlalchemy = "^2.0.29"
+psycopg2 = "^2.9.9"
+
+
+[tool.poetry.group.dev.dependencies]
+spyder-kernels = "==2.4.*"
+ipykernel = "^6.29.4"
+black = "^24.4.1"
+isort = "^5.13.2"
+flake8 = "^7.0.0"
+flake8-isort = "^6.1.1"
+pylint = "^3.1.0"
+pre-commit = "^3.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
