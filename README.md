@@ -11,9 +11,9 @@
 - **Librairies principales :** requests, datetime,  psycopg2, dotenv, sqlalchemy
 - **Détails du projet :**
 	- Création d’un environnement virtuel via Poetry.
-- Création d’un fichier contenant les secrets (clés et mdp).
-- Création de trois fichiers notebooks et scripts python permettant la récupération et le stockage des données sur PostgreSQL :
-- un pour la partie historique
-- un pour la récupération des nouvelles données
-- et finalement un regroupant les deux premiers.
-- Ajout des librairies black, isort, flake8 & flake8-isort, pylint et pre-commit pour la vérification de la qualité du code python envoyé sur GutHub. 
+	- Création d’un fichier contenant les secrets (clés et mdp).
+	- Création de trois fichiers notebooks et scripts python permettant la récupération et le stockage des données sur PostgreSQL :
+	- un pour la partie historique
+	- un pour la récupération des nouvelles données
+	- et finalement un regroupant les deux premiers.
+	- Ajout des librairies black, isort, flake8 & flake8-isort, pylint et pre-commit pour la vérification de la qualité du code python envoyé sur GutHub. 
