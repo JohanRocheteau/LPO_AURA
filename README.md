@@ -1,4 +1,4 @@
-# Projet Bénévolat : LPO-AURA (en cours)
+# Projet Bénévolat : LPO-AURA
 ![Logo](Photos/Logo.jpg)
 
 ## Mise en situation :
