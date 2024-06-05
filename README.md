@@ -5,7 +5,7 @@
 - **But :** Récupération automatique, via une API, des données issues d’une sonde météorologique et stockage en PostgreSQL. 
 - **Problématique :** Actuellement les données sont récupérées tous les X jours  sous format CSV et transférées manuellement sur PostgreSQL. Ces étapes sont réalisées par plusieurs personnes et nécessites de supprimer les doublons. 
 - **API :** [API WEATHERLINK](https://weatherlink.github.io/v2-api/)
-- **Contraintes : ** En plus des clés pour l’utilisation de l’API et de la BDD il faut gérer le fait que l’API ne permet de récupérer les données que un jour à la fois, pour une sonde qui remonte à fin septembre 2021.
+- **Contraintes :** En plus des clés pour l’utilisation de l’API et de la BDD il faut gérer le fait que l’API ne permet de récupérer les données que un jour à la fois, pour une sonde qui remonte à fin septembre 2021.
 
 ## Réalisations :
 - **Librairies principales :** requests, datetime,  psycopg2, dotenv, sqlalchemy
