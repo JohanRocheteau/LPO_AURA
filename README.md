@@ -1,5 +1,5 @@
 # Projet Bénévolat : LPO-AURA (en cours)
-![Logo]() # A changer
+![Logo](Photos/Logo.jpg)
 
 ## Mise en situation :
 - **But :** Récupération automatique, via une API, des données issues d’une sonde météorologique et stockage en PostgreSQL. 
