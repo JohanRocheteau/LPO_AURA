@@ -1,6 +1,6 @@
 # 🐦 **Projet Bénévolat : LPO-AURA**  
 
-![LPO Logo](PhotosReadme/logo.jpg)  
+![LPO Logo](Photos/Logo.jpg)  
 
 ## 📌 **Contexte et Objectif**  
 
